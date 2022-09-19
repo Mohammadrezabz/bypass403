@@ -12,10 +12,8 @@ chmod +x bp403.sh
 ```
 ./bp403.sh url
 ```
-##Notice
-Use It With Cuation , Im Not Responsible For Any Misuses Or Damage
-
 ##ToDo
+
 Add New paths to Check.
 
 
